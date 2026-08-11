@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://htownson.github.io/reference-0mkt8o/sitemap.xml
